@@ -19,10 +19,11 @@
   },
   "dependencies": {
     "breeze-dag": "^0.1.0",
-    "through2": "^2.0.0"
+    "through2": "^4.0.2"
   },
   "peerDependencies": {
-    "babel-eslint": "^7.0.0 || ^8.0.0",
-    "eslint": "^4.0.0"
+    "@babel/core": "^7.18.10",
+    "@babel/eslint-parser": "^7.18.9",
+    "eslint": "^8.22.0"
   }
 }
